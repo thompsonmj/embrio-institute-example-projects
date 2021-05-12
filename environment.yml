@@ -1,7 +1,11 @@
 name: purdue-bme-695-notebooks
+channels:
+  - conda-forge
+  - defaults
 dependencies:
-	- python >=3.6
-	- anaconda
-	- pip
-	- pip:
-		- -r file:requirements.txt
+  - anaconda
+  - pip
+  - python>=3.6
+  - pip:
+   - -r file:requirements.txt
+
