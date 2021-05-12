@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+math
+IPython
+sys
+pandas
+seaborn
+os
