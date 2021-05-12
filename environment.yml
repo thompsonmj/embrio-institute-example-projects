@@ -1,0 +1,7 @@
+name: purdue-bme-695-notebooks
+dependencies:
+	- python >=3.6
+	- anaconda
+	- pip
+	- pip:
+		- -r file:requirements.txt
