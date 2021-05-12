@@ -1,6 +1,5 @@
 name: purdue-bme-695-notebooks
 channels:
-  - conda-forge
   - defaults
 dependencies:
   - anaconda
