@@ -33,3 +33,12 @@ scipy == 1.6.3
 
 # C:\Users\thomp\projects\purdue-bme-695-notebooks\Simerdeep_Kaur.ipynb: 126
 seaborn == 0.11.1
+
+# Manual additions
+jupyter
+ipyvuetify
+voila
+nbconvert
+voila-gridstack
+voila-material
+voila-vuetify
