@@ -22,3 +22,19 @@ This repository showcases students' work in Purdue's BME 695 Quantitative System
 The major objective for this course is to study current problems in biology that are amenable to modeling, quantitative analysis, and systems biology approaches. The focus will be to understand current work on several aspects of embryo development, gene control networks, signaling cascades, and neurobiology, and to identify the component processes and associated modeling/mathematical tools needed to address them. These include basic material on how to model chemical reactions (both deterministically and stochastically) how to formulate a model of genetic regulatory networks, and how to model signaling via morphogens. 
 
 The final project in the course is an individual effort to create an exposition on a topic of the student's choice using Jupyter. The backbone of a notebook is the replication of some or all results in a peer-reviewed publication. Please click the links above to open a static rendering of the notebooks using nbviewer or an executable instance using Binder or Colab. 
+
+## Use
+
+To download and run these notebooks on your computer, clone the repository to a directory of your choice and create a virtual environment using [conda](https://www.anaconda.com/products/individual).
+
+From this repository's directory on your computer, run:
+
+`conda env create --name embrio-institute-example-projects --file=environments.yml`
+
+The previous step is quite slow, which is an effect of the conda package/environment manager. Once dependencies are installed to this environment, activate the environment using:
+
+`conda activate embrio-institute-example-projects`
+
+Run Jupyter in your browser using `jupyter lab` or `jupyter notebook`.
+
+
