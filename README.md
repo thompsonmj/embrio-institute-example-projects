@@ -29,7 +29,7 @@ To download and run these notebooks on your computer, clone the repository to a 
 
 From this repository's directory on your computer, run:
 
-`conda env create --name embrio-institute-example-projects --file=environments.yml`
+`conda env create --name embrio-institute-example-projects --file=environment.yml`
 
 The previous step is quite slow, which is an effect of the conda package/environment manager. Once dependencies are installed to this environment, activate the environment using:
 
