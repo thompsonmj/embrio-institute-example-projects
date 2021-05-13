@@ -2,18 +2,10 @@
 
 ![embrio-logo](https://user-images.githubusercontent.com/31709066/118169993-98654600-b3f7-11eb-9a9d-f3cbae6151cd.PNG)
 
+| **View** | **Run with Binder** | **Run with Colab** |
+| --- | --- | --- |
+| [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/thompsonmj/purdue-bme-695-notebooks/tree/main/) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thompsonmj/purdue-bme-695-notebooks/main) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thompsonmj/purdue-bme-695-notebooks) |
 
-Render notebooks with nbviewer.
-
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/thompsonmj/purdue-bme-695-notebooks/tree/main/)
-
-Run notebooks using Binder
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thompsonmj/purdue-bme-695-notebooks/main)
-
-or with Google's Colaboratory (Google Account sign in required)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thompsonmj/purdue-bme-695-notebooks)
 
 [Binder](https://jupyter.org/binder) and [nbviewer](https://nbviewer.jupyter.org/) are open source [Project Jupyter](https://jupyter.org/index.html) tools that do not require authentication to use. 
 
