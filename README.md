@@ -8,6 +8,11 @@ Run notebooks using Binder.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thompsonmj/purdue-bme-695-notebooks/main)
 
+or with Google's Colaboratory
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thompsonmj/purdue-bme-695-notebooks)
+
+
 ## Description
 
 Welcome to the showcase repository for students' work replicating results presented in systems biology publications! 
