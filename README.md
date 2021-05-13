@@ -1,4 +1,4 @@
-# BME 695: Quantitative Systems Biology Course Project
+# EMBRIO Institute Example Projects
 
 Render notebooks with nbviewer.
 
