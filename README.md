@@ -1,5 +1,8 @@
 # EMBRIO Institute Example Projects
 
+![embrio-logo](https://user-images.githubusercontent.com/31709066/118169993-98654600-b3f7-11eb-9a9d-f3cbae6151cd.PNG)
+
+
 Render notebooks with nbviewer.
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/thompsonmj/purdue-bme-695-notebooks/tree/main/)
