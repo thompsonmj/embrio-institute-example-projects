@@ -1,8 +1,8 @@
-name: purdue-bme-695-notebooks
+name: embrio-institute-example-projects
 channels:
   - conda-forge
 dependencies:
-  - miniconda
+  - anaconda
   - pip
   - python>=3.6
   - pip:
