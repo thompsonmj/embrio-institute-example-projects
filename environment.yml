@@ -2,6 +2,7 @@ name: purdue-bme-695-notebooks
 channels:
   - conda-forge
 dependencies:
+  - miniconda
   - pip
   - python>=3.6
   - pip:
