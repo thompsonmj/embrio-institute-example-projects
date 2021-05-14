@@ -1,9 +1,23 @@
 name: embrio-institute-example-projects
 channels:
   - conda-forge
+  - default
 dependencies:
-  - anaconda
-  - pip
-  - python>=3.6
-  - pip:
-    - -r file:requirements.txt
+  - ipython == 7.23.1
+  - matplotlib == 3.4.2
+  - numpy == 1.20.2
+  - pandas == 1.2.4
+  - scipy == 1.6.3
+  - seaborn == 0.11.1
+  - jupyter
+  - ipyvuetify
+  - voila
+  - nbconvert
+  - voila-gridstack
+  - voila-material
+  - voila-vuetify
+#  - anaconda
+#  - pip
+#  - python>=3.6
+#  - pip:
+#    - -r file:requirements.txt
