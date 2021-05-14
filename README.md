@@ -23,18 +23,24 @@ The major objective for this course is to study current problems in biology that
 
 The final project in the course is an individual effort to create an exposition on a topic of the student's choice using Jupyter. The backbone of a notebook is the replication of some or all results in a peer-reviewed publication. Please click the links above to open a static rendering of the notebooks using nbviewer or an executable instance using Binder or Colab. 
 
-## Use
+## Usage
 
-To download and run these notebooks on your computer, clone the repository to a directory of your choice and create a virtual environment using [conda](https://www.anaconda.com/products/individual).
+To download and run these notebooks on your computer, clone the repository to a directory of your choice and create a virtual environment using [conda](https://docs.conda.io/projects/conda/en/latest/#) or, preferably, [mamba](https://mamba.readthedocs.io/en/latest/) for faster performance.
 
-From this repository's directory on your computer, run:
+First, install your choice of conda ([miniconda](https://docs.conda.io/en/latest/miniconda.html#) or [Anaconda](https://www.anaconda.com/products/individual)).
 
-`conda env create --name embrio-institute-example-projects --file=environment.yml`
+Once this repository is cloned to your computer, run the following from that directory:
 
-The previous step is quite slow, which is an effect of the conda package/environment manager. Once dependencies are installed to this environment, activate the environment using:
+```
+conda install mamba -n base -c conda-forge # Recommended for much faster performance
+mamba env create --name embrio-institute-example-projects --file=environment.yml
+```
+
+Once the environment is set up, run:
 
 `conda activate embrio-institute-example-projects`
 
 Run Jupyter in your browser using `jupyter lab` or `jupyter notebook`.
 
-
+When finished, run:
+`conda deactivate`
