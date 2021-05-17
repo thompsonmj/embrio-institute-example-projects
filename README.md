@@ -15,7 +15,7 @@ When running with Binder, you may also click [Voilà](https://voila.readthedocs.
 
 ## Description
 
-Welcome to a example repository for the EMBRIO Institute! =)
+Welcome to a example repository for the EMBRIO Institute!
 
 This repository showcases students' work in Purdue's BME 695 Quantitative Systems Biology course project.
 
@@ -36,7 +36,9 @@ conda install mamba -n base -c conda-forge # Recommended for much faster perform
 mamba env create --name embrio-institute-example-projects --file=environment.yml
 ```
 
-Once the environment is set up, run:
+Note that you may name the environment anything you like. It does not need to match the repository name as shown above.
+
+Once the environment is set up, activate it by running:
 
 `conda activate embrio-institute-example-projects`
 
