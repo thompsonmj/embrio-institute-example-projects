@@ -15,7 +15,7 @@ When running with Binder, you may also click [Voilà](https://voila.readthedocs.
 
 ## Description
 
-Welcome to a example repository for the EMBRIO Institute!
+Welcome to a example repository for the EMBRIO Institute! =)
 
 This repository showcases students' work in Purdue's BME 695 Quantitative Systems Biology course project.
 
